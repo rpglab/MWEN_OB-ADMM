@@ -8,9 +8,9 @@ This set of codes/data implements our EPSR paper "Decentralized Micro Water-Ener
 ### Python Jupyter Notebook:
 Codes are implemented in Python, using Jupyter Notebook. 
 
-MEM-MWM_CMWEN.ipynb is Python notebook which includes blocks of code for the separate optimization of the MEM and MWM models, along with the centralized MWEN model for comparison of the results of separate optimization and combined co-optimization.
+* "MEM-MWM_CMWEN.ipynb" is Python notebook which includes blocks of code for the separate optimization of the MEM and MWM models, along with the centralized MWEN model for comparison of the results of separate optimization and combined co-optimization.
 
-Decentralized_MWEN.ipynb is a Python notebook which contains the centralized MWEN model as well as two decentralized approaches to the MWEN problem: via Standard ADMM and Objective-Based ADMM (OB-ADMM).
+* "Decentralized_MWEN.ipynb" is a Python notebook which contains the centralized MWEN model as well as two decentralized approaches to the MWEN problem: via Standard ADMM and Objective-Based ADMM (OB-ADMM).
 
 
 ## Citation:
